@@ -1,23 +1,13 @@
-# RandomThings
-This is where she makes a mod.
+# Unlock Items
 
-<img src="logo.png" width="150" alt="the mod's logo" />
+A simple Geode mod for Geometry Dash that unlocks all icons, colors, and death effects
 
-*Update logo.png to change your mod's icon (please)*
+## Installation
 
-## Getting started
-We recommend heading over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) for useful info on what to do next.
+1. Make sure you have [Geode](https://geode-sdk.org/) installed
+2. Download the latest `.geode` file from the [Releases](https://github.com/kappahh/unlock-icons-mod/releases) page
+3. Open the `.geode` file with Geometry Dash or drag it into your `geode/mods` folder
 
-## Build instructions
-For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
-```sh
-# Assuming you have the Geode CLI set up already
-geode build
-```
+## Important Note
 
-# Resources
-* [Geode SDK Documentation](https://docs.geode-sdk.org/)
-* [Geode SDK Source Code](https://github.com/geode-sdk/geode/)
-* [Geode CLI](https://github.com/geode-sdk/cli)
-* [Bindings](https://github.com/geode-sdk/bindings/)
-* [Dev Tools](https://github.com/geode-sdk/DevTools)
+This mod only unlocks the items **visually** in the icon menu. It does not give you the associated achievements or stats (like stars or moons) required to unlock them legitimately 
